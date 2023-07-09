@@ -127,6 +127,8 @@
   line-height: 27px;
   letter-spacing: 0em;
   text-align: left;
+  margin-top: 0px;
+  padding-top: 0px;
 }
 .footer-2-li {
   color: #ffffff;
@@ -140,7 +142,6 @@
 .footer-2-ul {
   margin: 0px;
   padding: 0px;
-  margin-top: 24px;
 }
 .footer-2 {
   margin-top: 0px;
@@ -182,4 +183,43 @@ address {
 .footer-3 {
   margin-left: 106px;
   margin-bottom: 80px;
+}
+.footer-3p {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+  width: 141px;
+  height: 27px;
+  margin-top: 0;
+  padding-top: 0;
+}
+.footer-input {
+  width: 342px;
+  height: 54px;
+  border-radius: 31px;
+  padding: 18px 0px 17px 32px;
+  box-sizing: border-box;
+}
+.footer-form {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
+.footer-4-form-link {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 106.5%;
+  text-transform: capitalize;
+  margin: 16px 0px 0px;
+  padding: 17px 32px 18px 32px;
+  border-radius: 31px;
+  background: #f58a07;
 }
